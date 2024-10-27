@@ -22,7 +22,7 @@ const Carousel = () => {
     
     return (
     <section className='slider-container'>
-      <p>{people[currentPerson].name}</p>
+      {/* <p>{people[currentPerson].name}</p> */}
       {people.map((person,personIndex)=>{
         const{id,image,name,title,quote} = person
         return (
