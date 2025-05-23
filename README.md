@@ -59,3 +59,4 @@ Overall, the flow of the application should look something like this:
 - Implement the auto slide functionality using the setInterval function to change the currentPerson state value at regular intervals.
 "# Sliders" 
 "# Sliders" 
+"# Sliders" 
